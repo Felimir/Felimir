@@ -7,4 +7,4 @@ Soy Felimir. Soy desarrollador principalmente en JavaScript, y trabajo para la [
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Felimir&theme=dark)
 
-[Estadísticas de Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Felimir)
+![Estadísticas de Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Felimir)
