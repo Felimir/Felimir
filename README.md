@@ -1,4 +1,4 @@
-<img src="assets/meaningP.jpg" alt="JPG" height="200">
+<img src="assets/meaningP.jpg" alt="JPG" height="500">
 
 Soy Felimir. Soy desarrollador principalmente en JavaScript, y trabajo para la [Organización FxZ](https://fxz-org.com). 
 
