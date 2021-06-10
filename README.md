@@ -37,5 +37,4 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Felimir&theme=outrun" heigth="450" width="450" />
 </a>
 
-
-> Thanks [https://github.com/anuraghazra](anuraghazra) for creating [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/)
+> Thanks **[anuraghazra](https://github.com/anuraghazra/)** for creating **[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/)**
