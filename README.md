@@ -28,6 +28,10 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 
 ## **Recent activity:**
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Felimir/discord-giveaways-esp/pull/1) in [Felimir/discord-giveaways-esp](https://github.com/Felimir/discord-giveaways-esp)
+2. 🎉 Merged PR [#2](https://github.com/Felimir/discord-giveaways-esp/pull/2) in [Felimir/discord-giveaways-esp](https://github.com/Felimir/discord-giveaways-esp)
+3. 🗣 Commented on [#168](https://github.com/discord-tickets/bot/issues/168) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
+<!--END_SECTION:activity-->
 
 ## **Stats:**
 <a href="https://github.com/anuraghazra/github-readme-stats">
