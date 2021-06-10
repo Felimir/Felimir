@@ -26,6 +26,9 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 [<img src="./assets/MySQL.png" alt="MYSQL-LOGO" height="45" wight="45" />](https://www.mysql.com/)
 [<img src="./assets/MongoDB.png" alt="MONGODB-LOGO" height="45" wight="45" />](https://www.mongodb.com/)
 
+## **Recent activity:**
+<!--START_SECTION:activity-->
+
 ## **Stats:**
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felimir&show_icons=true&theme=outrun" heigth="450" width="450" />
