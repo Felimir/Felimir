@@ -3,7 +3,7 @@ Fel ♥
 ⌨ Node.js and Discord bots dev<br>
 🛠 Working in:
 * [Orix](https://fxz-org.com/orix-mejor-bot-discord/), a Discord *spanish and forthcoming english* bot
-* [SS-Assistant](https://github.com/SS-Assist), a project that combines Minecraft and Discord to make SS easier
+* [SS-Assistant](https://github.com/SS-Assistant/), a project that combines Minecraft and Discord to make SS easier
 
 🎈 Employee of FxZ Org:
   - [Website](https://fxz-org.com/)
