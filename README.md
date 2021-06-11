@@ -5,6 +5,8 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 ![Coding](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/428175207010926613)
 [![Listening](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/428175207010926613)]((https://dev.discordprofiles.me/openspotify/428175207010926613))
 
+![Twitter Follow](https://img.shields.io/twitter/follow/iFel_uwu?color=1DA1F2&logo=twitter&style=for-the-badge)
+
 ⌨ Node.js and Discord bots dev<br>
 🛠 Working in:
 * [Orix](https://fxz-org.com/orix-mejor-bot-discord/), a Discord *spanish and forthcoming english* bot
