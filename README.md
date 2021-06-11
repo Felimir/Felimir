@@ -4,8 +4,7 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 ![Playing](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/428175207010926613) 
 ![Coding](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/428175207010926613)
 [![Listening](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/428175207010926613)]((https://dev.discordprofiles.me/openspotify/428175207010926613))
-
-![Twitter Follow](https://img.shields.io/twitter/follow/iFel_uwu?color=1DA1F2&logo=twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iFel_uwu?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?screen_name=iFel_uwu)
 
 ⌨ Node.js and Discord bots dev<br>
 🛠 Working in:
