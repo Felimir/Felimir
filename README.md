@@ -18,7 +18,7 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 
 ## **Contact me!**
 - <img src="https://raw.githubusercontent.com/Felimir/Felimir/main/assets/Discord.png" align="center"> : [Fel#1618](https://discord.com/users/428175207010926613)
-- <img src="https://raw.githubusercontent.com/Felimir/Felimir/main/assets/Twitter.png" align="center"> : [@UniversalCubes](https://twitter.com/UniversalCubes/)
+- <img src="https://raw.githubusercontent.com/Felimir/Felimir/main/assets/Twitter.png" align="center"> : [@iFel_uwu](https://twitter.com/iFel_uwu/)
 
 ## **Skills:**
 [<img src="./assets/DLogo.png" alt="DISCORD-LOGO" height="45" wight="45" />](https://discord.com/)
