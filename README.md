@@ -34,6 +34,10 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 3. 🗣 Commented on [#168](https://github.com/discord-tickets/bot/issues/168) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
 <!--END_SECTION:activity-->
 
+## **Coding stats:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## **Stats:**
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felimir&show_icons=true&theme=outrun" heigth="450" width="450" />
