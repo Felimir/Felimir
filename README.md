@@ -27,9 +27,9 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 [<img src="./assets/MySQL.png" alt="MYSQL-LOGO" height="45" wight="45" />](https://www.mysql.com/)
 [<img src="./assets/MongoDB.png" alt="MONGODB-LOGO" height="45" wight="45" />](https://www.mongodb.com/)
 
-<details open>
+<details>
 <summary>**⌚ Recent activity:**</summary>
-<br>
+  
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Felimir/discord-giveaways-esp/pull/1) in [Felimir/discord-giveaways-esp](https://github.com/Felimir/discord-giveaways-esp)
 2. 🎉 Merged PR [#2](https://github.com/Felimir/discord-giveaways-esp/pull/2) in [Felimir/discord-giveaways-esp](https://github.com/Felimir/discord-giveaways-esp)
@@ -37,9 +37,9 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 <!--END_SECTION:activity-->
 </details>
 
-<details open>
+<details>
 <summary>**📊 Coding stats:**</summary>
-<br>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -122,15 +122,16 @@ Java                     1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-<details open>
+<details>
 <summary>**👀 GitHub Stats:**</summary>
-<br>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felimir&show_icons=true&theme=outrun" heigth="450" width="450" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Felimir&theme=outrun" heigth="450" width="450" />
 </a>
-</details>
-
+  
 > Thanks **[anuraghazra](https://github.com/anuraghazra/)** for creating **[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/)**
+
+</details>
