@@ -27,101 +27,29 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 [<img src="./assets/MySQL.png" alt="MYSQL-LOGO" height="45" wight="45" />](https://www.mysql.com/)
 [<img src="./assets/MongoDB.png" alt="MONGODB-LOGO" height="45" wight="45" />](https://www.mongodb.com/)
 
-## **Recent activity:**
+<details open>
+<summary>**⌚ Recent activity:**</summary>
+<br>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Felimir/discord-giveaways-esp/pull/1) in [Felimir/discord-giveaways-esp](https://github.com/Felimir/discord-giveaways-esp)
-2. 🎉 Merged PR [#2](https://github.com/Felimir/discord-giveaways-esp/pull/2) in [Felimir/discord-giveaways-esp](https://github.com/Felimir/discord-giveaways-esp)
-3. 🗣 Commented on [#168](https://github.com/discord-tickets/bot/issues/168) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
 <!--END_SECTION:activity-->
+</details>
 
-## **Coding stats:**
+<details open>
+<summary>**📊 Coding stats:**</summary>
+<br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 794 Contributions in the Year 2021
- > 
-> 📦 2.2 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-🌆 Daytime    53 commits     ██████░░░░░░░░░░░░░░░░░░░   27.04% 
-🌃 Evening    114 commits    ██████████████░░░░░░░░░░░   58.16% 
-🌙 Night      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.59%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Tuesday      40 commits     █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-Wednesday    31 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
-Thursday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-Friday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Saturday     53 commits     ██████░░░░░░░░░░░░░░░░░░░   27.04% 
-Sunday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Montevideo
-
-💬 Programming Languages: 
-JavaScript               14 hrs 10 mins      ████████████████████████░   98.86% 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
-
-🔥 Editors: 
-VS Code                  14 hrs 20 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-orix                     13 hrs 35 mins      ███████████████████████░░   94.69% 
-yessi                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
-
-💻 Operating System: 
-Windows                  14 hrs 20 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             █████████████████░░░░░░░░   69.23% 
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Felimir/Felimir/main/charts/bar_graph.png) 
-
-
- Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
+</details>
 
-## **Stats:**
+<details open>
+<summary>**👀 GitHub Stats:**</summary>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felimir&show_icons=true&theme=outrun" heigth="450" width="450" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Felimir&theme=outrun" heigth="450" width="450" />
 </a>
+</details>
 
 > Thanks **[anuraghazra](https://github.com/anuraghazra/)** for creating **[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/)**
