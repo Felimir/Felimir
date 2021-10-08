@@ -84,18 +84,16 @@ Sunday       19 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-JavaScript               9 mins              ███████████████████████░░   91.71% 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-synapse-admin            10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -115,7 +113,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Felimir/Felimir/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/10/2021
+ Last Updated on 08/10/2021
 <!--END_SECTION:waka-->
 </details>
 
