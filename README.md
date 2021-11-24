@@ -45,7 +45,7 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,003 Contributions in the Year 2021
+> 🏆 1,004 Contributions in the Year 2021
  > 
 > 📦 2.8 kB Used in GitHub's Storage 
  > 
@@ -68,10 +68,10 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 
 ```text
 Monday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Tuesday      43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.57% 
+Tuesday      44 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
 Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
 Thursday     43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.57% 
-Friday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.57% 
+Friday       42 commits     █████░░░░░░░░░░░░░░░░░░░░   20.1% 
 Saturday     29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
 Sunday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39%
 
@@ -84,16 +84,19 @@ Sunday       5 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               11 mins             █████████████████████░░░░   84.01% 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+orix                     13 mins             ███████████████████████░░   95.16% 
+yessi                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.84%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +116,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Felimir/Felimir/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/11/2021
+ Last Updated on 24/11/2021
 <!--END_SECTION:waka-->
 </details>
 
