@@ -41,7 +41,7 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 <summary>**📊 Coding stats:**</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -84,18 +84,18 @@ Sunday       33 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-JavaScript               2 hrs 58 mins       █████████████████████████   99.74% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
+JavaScript               2 hrs 49 mins       █████████████████████████   99.73% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 50 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-orix                     2 hrs 59 mins       █████████████████████████   100.0%
+orix                     2 hrs 50 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.0%
+Windows                  2 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
@@ -115,7 +115,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Felimir/Felimir/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/12/2021
+ Last Updated on 28/12/2021
 <!--END_SECTION:waka-->
 </details>
 
