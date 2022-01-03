@@ -84,18 +84,16 @@ Sunday       33 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-JavaScript               1 hr 16 mins        ████████████████████████░   99.39% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-orix                     1 hr 16 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -115,7 +113,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Felimir/Felimir/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/01/2022
+ Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
 </details>
 
