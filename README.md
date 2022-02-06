@@ -1,24 +1,5 @@
 Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEWS" align="center" />
 
-![Status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/428175207010926613)
-![Playing](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/428175207010926613) 
-![Coding](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/428175207010926613)
-[![Listening](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/428175207010926613)]((https://dev.discordprofiles.me/openspotify/428175207010926613))
-[![Twitter Follow](https://img.shields.io/twitter/follow/iFel_uwu?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?screen_name=iFel_uwu)
-
-⌨ Node.js and Discord bots dev<br>
-🛠 Working in:
-* [Orix](https://fxz-org.com/orix-mejor-bot-discord/), a Discord *spanish and forthcoming english* bot
-* [SS-Assistant](https://github.com/SS-Assistant/), a project that combines Minecraft and Discord to make SS easier
-
-🎈 Employee of FxZ Org:
-  - [Website](https://fxz-org.com/)
-  - [GitHub Org](https://fxz-org.com/OrganizacionFxZ/)
-
-## **Contact me!**
-- <img src="https://raw.githubusercontent.com/Felimir/Felimir/main/assets/Discord.png" align="center"> : [Fel#1618](https://discord.com/users/428175207010926613)
-- <img src="https://raw.githubusercontent.com/Felimir/Felimir/main/assets/Twitter.png" align="center"> : [@iFel_uwu](https://twitter.com/iFel_uwu/)
-
 ## **Skills:**
 [<img src="./assets/DLogo.png" alt="DISCORD-LOGO" height="45" wight="45" />](https://discord.com/)
 [<img src="./assets/NodeJS.png" alt="NODEJS-LOGO" height="45" wight="45" />](https://nodejs.org/)
