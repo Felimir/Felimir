@@ -1,7 +1,6 @@
 Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEWS" align="center" />
 
 ## **Skills:**
-[<img src="./assets/DLogo.png" alt="DISCORD-LOGO" height="45" wight="45" />](https://discord.com/)
 [<img src="./assets/NodeJS.png" alt="NODEJS-LOGO" height="45" wight="45" />](https://nodejs.org/)
 [<img src="./assets/JavaScript.jpg" alt="JS-LOGO" height="45" wight="45" />](https://www.javascript.com/)
 [<img src="./assets/Python.png" alt="PYTHON-LOGO" height="45" wight="45" />](https://www.python.org/)
@@ -12,9 +11,7 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 <summary>**⌚ Recent activity:**</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Felimir/discord-giveaways-esp/pull/1) in [Felimir/discord-giveaways-esp](https://github.com/Felimir/discord-giveaways-esp)
-2. 🎉 Merged PR [#2](https://github.com/Felimir/discord-giveaways-esp/pull/2) in [Felimir/discord-giveaways-esp](https://github.com/Felimir/discord-giveaways-esp)
-3. 🗣 Commented on [#168](https://github.com/discord-tickets/bot/issues/168) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
+
 <!--END_SECTION:activity-->
 </details>
 
