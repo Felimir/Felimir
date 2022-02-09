@@ -102,7 +102,7 @@ EJS                      1 repo              █░░░░░░░░░░�
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felimir&show_icons=true&theme=outrun" heigth="450" width="450" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Felimir&theme=outrun" heigth="450" width="450" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=feldev&theme=outrun" heigth="450" width="450" />
 </a>
   
 > Thanks **[anuraghazra](https://github.com/anuraghazra/)** for creating **[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/)**
