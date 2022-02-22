@@ -25,7 +25,7 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 
 > 🏆 4 Contributions in the Year 2022
  > 
-> 📦 884 Bytes Used in GitHub's Storage 
+> 📦 888 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,17 +62,16 @@ Sunday       38 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-JavaScript               12 hrs 10 mins      ████████████████████████░   98.57% 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 hrs 21 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-orix                     12 hrs 21 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 hrs 21 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -91,7 +90,7 @@ EJS                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Felimir/Felimir/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2022 18:44:29 UTC
+ Last Updated on 22/02/2022 18:45:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
