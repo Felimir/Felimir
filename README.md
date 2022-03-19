@@ -19,13 +19,13 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 <summary>**📊 Coding stats:**</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 4 Contributions in the Year 2022
  > 
-> 📦 921 Bytes Used in GitHub's Storage 
+> 📦 923 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +90,7 @@ EJS                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Felimir/Felimir/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/03/2022 18:46:31 UTC
+ Last Updated on 19/03/2022 18:45:17 UTC
 <!--END_SECTION:waka-->
 </details>
 
