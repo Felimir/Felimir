@@ -25,7 +25,7 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 
 > 🏆 4 Contributions in the Year 2022
  > 
-> 📦 603 Bytes Used in GitHub's Storage 
+> 📦 606 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +90,7 @@ EJS                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Felimir/Felimir/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/04/2022 18:50:58 UTC
+ Last Updated on 02/05/2022 18:50:03 UTC
 <!--END_SECTION:waka-->
 </details>
 
