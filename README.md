@@ -27,7 +27,7 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
 
 > 🏆 4 Contributions in the Year 2022
  > 
-> 📦 680 Bytes Used in GitHub's Storage 
+> 📦 682 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,48 +35,6 @@ Fel ♥ <img src="https://komarev.com/ghpvc/?username=Felimir" alt="PROFILE-VIEW
  > 
 > 🔑 2 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    37 commits     ██████░░░░░░░░░░░░░░░░░░░   26.06% 
-🌆 Daytime    44 commits     ███████░░░░░░░░░░░░░░░░░░   30.99% 
-🌃 Evening    59 commits     ██████████░░░░░░░░░░░░░░░   41.55% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.23% 
-Tuesday      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.93% 
-Wednesday    11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.75% 
-Thursday     44 commits     ███████░░░░░░░░░░░░░░░░░░   30.99% 
-Friday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
-Saturday     24 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.9% 
-Sunday       37 commits     ██████░░░░░░░░░░░░░░░░░░░   26.06%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Montevideo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -92,7 +50,7 @@ EJS                      1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Felimir/Felimir/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 18:55:25 UTC
+ Last Updated on 14/09/2022 18:54:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
